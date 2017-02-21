@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lib.DynamoDBAppSettings", "lib.DynamoDBAppSettings\lib.DynamoDBAppSettings.csproj", "{F81E46E2-3BD6-405A-A2CF-CEB382C06966}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "app.DynamoDBAppSettings", "app.DynamoDBAppSettings\app.DynamoDBAppSettings.csproj", "{C8413304-BBA3-4A37-8266-CB1E31F4CAF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F81E46E2-3BD6-405A-A2CF-CEB382C06966}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F81E46E2-3BD6-405A-A2CF-CEB382C06966}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F81E46E2-3BD6-405A-A2CF-CEB382C06966}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F81E46E2-3BD6-405A-A2CF-CEB382C06966}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8413304-BBA3-4A37-8266-CB1E31F4CAF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8413304-BBA3-4A37-8266-CB1E31F4CAF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8413304-BBA3-4A37-8266-CB1E31F4CAF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8413304-BBA3-4A37-8266-CB1E31F4CAF6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
