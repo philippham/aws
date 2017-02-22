@@ -240,3 +240,7 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+DynamoDBAppSettings/DynamoDBAppSettings/README_BACKUP_40264.txt
+DynamoDBAppSettings/DynamoDBAppSettings/README_BASE_40264.txt
+DynamoDBAppSettings/DynamoDBAppSettings/README_LOCAL_40264.txt
+DynamoDBAppSettings/DynamoDBAppSettings/README_REMOTE_40264.txt
